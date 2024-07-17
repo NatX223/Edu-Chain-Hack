@@ -1,0 +1,4 @@
+smart contracts/test/Lock.js
+smart contracts/ignition/modules/Lock.js
+smart contracts/contracts/Lock.sol
+smart contracts/hardhat.config.js
